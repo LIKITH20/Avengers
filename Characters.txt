@@ -5,3 +5,4 @@ Hulk
 Hawk Eye
 Thor
 Natasha
+Loki
